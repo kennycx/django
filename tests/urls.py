@@ -31,3 +31,4 @@ urlpatterns = patterns('',
     (r'^admin_scripts/', include('regressiontests.admin_scripts.urls')),
 
 )
+test
